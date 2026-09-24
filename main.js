@@ -4,7 +4,7 @@ let nombre = prompt("Ingrese su nombre completo");
 
 let año = prompt("Ingrese el año en el que nació con números");
 
-let añoActual = 2026;
+const añoActual = 2026;
 
 let edad = añoActual - parseInt(año);
 
